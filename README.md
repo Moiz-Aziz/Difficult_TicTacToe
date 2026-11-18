@@ -7,7 +7,7 @@ This is not any python TicTacToe. I codded my own algorithm to add hard modes. I
 This is a simple TicTacToe with three modes. These modes are:
 
 ```python
-["Computer(dump) (vs) Player","Computer(Smart) (vs) Player",  "Player (vs) Player"]
+["Computer(dumb) (vs) Player","Computer(Smart) (vs) Player",  "Player (vs) Player"]
 ```
 
 1. Player vs Player
