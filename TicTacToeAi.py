@@ -28,9 +28,12 @@ class DumbAi:
 
         return sortedBoard
 
+     
+
     def GetPlayerValues(
         self, playerNumber: int, playerType: str, board: list, win: int
     ) -> list:
+        
         
         if board[win] == "X" or board[win] == "O":
 
