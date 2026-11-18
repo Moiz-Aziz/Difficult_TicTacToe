@@ -30,4 +30,4 @@ This is the mode that is smarter then the dumb computer and it might be smarter 
 
 ---
 
-This is the final version of the game so it might have many issues. If you find any issue just report it.
+This is not the final version of the game, so it might have many issues. If you find any issue just report it.
