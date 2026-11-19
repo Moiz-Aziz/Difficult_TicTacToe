@@ -110,7 +110,7 @@ class DumbAi:
         # if len(probableValues) == 5:
         #     return 4
 
-        # if len(probableValues) == 4 and 4 in probableValues:
+        # if len(probableValues) == 4 and 4 in probableValues: 
         #     return 4
 
         if len(probableValues) == 0:
