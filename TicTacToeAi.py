@@ -1,8 +1,5 @@
 import random
 
-# Todo: Compolete the remaining give the number:
-
-
 class DumbAi:
     """
         This is the heart of the program
@@ -30,6 +27,7 @@ class DumbAi:
 
      
 
+    
     def GetPlayerValues(
         self, playerNumber: int, playerType: str, board: list, win: int
     ) -> list:
